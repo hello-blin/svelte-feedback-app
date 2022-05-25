@@ -1,6 +1,6 @@
 <script>
     import Card from "./Card.svelte";
-    export let item;
+    export let item ; 
 </script>
 
-<Card>Hello</Card>
+<Card>Hellou</Card>
